@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNG.Activity1"/>
+      <class name="com.ibm.Activity_8"/>
+      <class name="com.ibm.Activity_7"/>
+      <class name="TestNG.Activity3"/>
+      <class name="TestNG.Activity2"/>
+      <class name="com.ibm.Activity_9"/>
+      <class name="TestNG.Activity5"/>
+      <class name="TestNG.Activity4"/>
+      <class name="TestNG.Activity7"/>
+      <class name="TestNG.Activity9"/>
+      <class name="TestNG.Activity8"/>
+     <!--  <class name="TestNG.Activity10"/> -->
+      <class name="com.ibm.Activity_2"/>
+      <class name="com.ibm.Activity_1"/>
+      <class name="com.ibm.Activity_4"/>
+      <class name="com.ibm.Activity_3"/>
+      <class name="com.ibm.Activity_6"/>
+      <class name="com.ibm.AppTest"/>
+      <class name="com.ibm.Activity_5"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
